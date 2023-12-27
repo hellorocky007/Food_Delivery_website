@@ -1,0 +1,10 @@
+body{
+    print-color-adjust: exact;
+}
+.logo-style{
+    font-family: 'Tangerine', serif;
+  font-size: 80px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-shadow: 4px 4px 4px #d1d2ddc0;
+}
